@@ -1066,8 +1066,8 @@ h1 {
   display: none;
 }
 
-.whitepaper--content-text-wrapper {
-  padding-left: 11rem;
+.whitepaper--content-image {
+  max-width: 500px;
 }
 
 .roadmap {
