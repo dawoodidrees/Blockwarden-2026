@@ -5,7 +5,7 @@ if (scrolling_images) {
   var swiper = new Swiper("#scrolling__images .mySwiper", {
     spaceBetween: 10,
     slidesPerView: 4,
-    speed: 2000,
+    speed: 5000,
     allowTouchMove: false,
     simulateTouch: false,
     grabCursor: false,
