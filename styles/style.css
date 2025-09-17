@@ -1432,3 +1432,8 @@ footer {
 .independent-grid-card-text-description-items-icon {
   padding-top: 2px;
 }
+
+.footer-links-item-buttons a svg,
+.header--container-blocks-buttons a img {
+  width: 18px;
+}
